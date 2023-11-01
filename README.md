@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! I'm Ahmad Firdaus!
 
-<!--
-**accelerator-01/accelerator-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Just started this year as Programmer.
 
-Here are some ideas to get you started:
+### Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a>
+    <img align="left" src="https://simpleicons.vercel.app/javascript/F7DF1E" alt="Javascript img" width="40px" />
+    <img align="left" src="https://simpleicons.vercel.app/react/61DAFB" alt="React img" width="40px" />
+    <img src="https://simpleicons.vercel.app/nodedotjs/339933" alt="NodeJs img" width="40px" />
+</a>
+
+### Let's connect!
+
+<a href="https://twitter.com/the_Dark_Fall">
+  <img align="left" alt="Firdaus's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://facebook.com/firdaus.ahmad.58910049/">
+  <img align="left" alt="Firdaus's Facebook" width="20px" src="https://simpleicons.vercel.app/facebook/0866FF" />
+</a>
