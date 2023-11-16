@@ -22,13 +22,3 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h2 align="center">Let's connect!</h2>
-
-<div align="center">
-<a href="https://twitter.com/the_Dark_Fall">
-  <img align="left" alt="Firdaus's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://facebook.com/firdaus.ahmad.58910049/">
-  <img align="left" alt="Firdaus's Facebook" width="20px" src="https://simpleicons.vercel.app/facebook/0866FF" />
-</a>
-</div>
