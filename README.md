@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!:wave: I'm Ahmad Firdaus!</h1>
+<h1 align="center">Hello there!:wave: I'm Ahmad Firdaus!</h1>
 
 <h2 align="center">Just started this year as Programmer</h2>
 
