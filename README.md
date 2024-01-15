@@ -1,12 +1,7 @@
-<h1 align="center">Hello there! My name Ahmad Firdaus!</h1>
+### Hi there, I'm `Ahmad Firdaus` 👋
+<b>`I'm a Web Developer from Indonesia`</b>. I always love to learn new things in the world of Technology. Currently, I am focusing on exploring the profession as a Cyber Security but i'm based on Front-End developer. I am using <b>`Javascript`</b> programming languages to built the project. I'm also learning about <b>`Python`</b> and <b>`Go-Lang`</b>, In addition to these two languages, is my favorite language to built script for hacking. I am start diving to <b>`Cyber Security`</b> and <b>`Web Development`</b> at August 2023, and always trying to improve my skills. The green dots on my GitHub page represent my journey.
 
-<h2 align="center">Start learning web developer on agustus 2023</h2>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
+<br />
 
 <div align="center">
     <img src="https://simpleicons.vercel.app/javascript/F7DF1E" alt="Javascript img" width="40px" />
