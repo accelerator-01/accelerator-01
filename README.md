@@ -4,6 +4,6 @@
 <br />
 
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/truewarrior.png" alt="TryHackMe">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=accelerator-01&show_icons=true&locale=en" alt="accelerator-01" /></p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/truewarrior.png" alt="TryHackMe">
 </div>
