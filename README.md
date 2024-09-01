@@ -1,5 +1,5 @@
 <div>
-  <h1>Nothing special, just regular github user</h1>
+  <h1>Nothing special, just regular github user.</h1>
   <br/>
   <p>Learn programming since August 2023 | Web development, Network security, Mobile app.</p>
   <p>Yes, you right. Hungry to learn everything but not mastered none of them.</p>
